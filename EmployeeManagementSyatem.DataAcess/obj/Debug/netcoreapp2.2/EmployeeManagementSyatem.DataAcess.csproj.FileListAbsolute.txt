@@ -1,0 +1,10 @@
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\bin\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.deps.json
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\bin\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.dll
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\bin\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.pdb
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\obj\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.csproj.AssemblyReference.cache
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\obj\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\obj\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.AssemblyInfoInputs.cache
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\obj\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.AssemblyInfo.cs
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\obj\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\obj\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.dll
+C:\Users\MOULI\source\repos\EmployeeManagemwntSystem\EmployeeManagementSyatem.DataAcess\obj\Debug\netcoreapp2.2\EmployeeManagementSyatem.DataAcess.pdb
